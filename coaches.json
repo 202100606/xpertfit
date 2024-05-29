@@ -1,0 +1,28 @@
+{
+    "stat": 3,
+    "data": [
+        {
+            "id": 1,
+            "name": "bob",
+            "pic": ".jpg",
+            "course": [
+                {
+                    "id": 1,
+                    "name": "Basketball"
+                },
+                {
+                    "id": 2,
+                    "name": "football"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "ahmad",
+            "pic": ".jpg"
+        },
+        {
+            "id": 5
+        }
+    ]
+}
